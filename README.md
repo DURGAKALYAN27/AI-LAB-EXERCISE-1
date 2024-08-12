@@ -1,3 +1,5 @@
+**Exercise 1**
+
 - Q1 - BFS 
 - Q2 - DFS 
 - Q3 - MISSIONARIES AND CANNIBALS (RIVER)
